@@ -1,0 +1,11 @@
+{
+  "name": "Grammar_Tutor",
+  "runtime": "node/v18",
+  "region": "US",
+  "envs": [
+    "feishuAppId",
+    "feishuAppSecret",
+    "OpenAISecret"
+  ],
+  "typescript": false
+}
